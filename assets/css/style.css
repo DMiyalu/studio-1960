@@ -743,6 +743,12 @@ section {
   padding-bottom: 15px;
 }
 
+.why-us .video-box span a {
+  display: none;
+}
+
+
+
 .why-us .play-btn {
   width: 94px;
   height: 94px;
